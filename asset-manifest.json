@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Donato/static/css/main.3c19405e.css",
+    "main.js": "/Donato/static/js/main.a1dc3704.js",
+    "static/js/787.cda612ba.chunk.js": "/Donato/static/js/787.cda612ba.chunk.js",
+    "static/media/books2.jpg": "/Donato/static/media/books2.7761dcdd795f9c2d9bb3.jpg",
+    "static/media/clothes.jpg": "/Donato/static/media/clothes.b1d86e4025b8f85a50e0.jpg",
+    "static/media/toys2.jpg": "/Donato/static/media/toys2.b5e8da1e80bb04b4db44.jpg",
+    "static/media/toys.jpg": "/Donato/static/media/toys.a23b184d100ce5147294.jpg",
+    "static/media/book.jpg": "/Donato/static/media/book.af0c82ec06559f7c8ff7.jpg",
+    "static/media/img3.png": "/Donato/static/media/img3.f02824bbaa198a353131.png",
+    "static/media/clothes2.jpg": "/Donato/static/media/clothes2.d5e6072f56069fe2189d.jpg",
+    "static/media/img1.png": "/Donato/static/media/img1.f09ce987dc181f91dfe4.png",
+    "static/media/img2.png": "/Donato/static/media/img2.5d3126e9b52a56ee08d4.png",
+    "index.html": "/Donato/index.html",
+    "main.3c19405e.css.map": "/Donato/static/css/main.3c19405e.css.map",
+    "main.a1dc3704.js.map": "/Donato/static/js/main.a1dc3704.js.map",
+    "787.cda612ba.chunk.js.map": "/Donato/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c19405e.css",
+    "static/js/main.a1dc3704.js"
+  ]
+}
